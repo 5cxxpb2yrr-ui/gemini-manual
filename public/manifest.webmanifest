@@ -1,0 +1,8 @@
+{
+  "name": "LifeOS Manual Explorer",
+  "short_name": "Manuals",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#f59e0b"
+}
